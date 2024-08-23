@@ -1,7 +1,8 @@
-#include <iostream>
-// Comment
+// Jedward Pierce Melendez
 // CCOM 3033
 
+#include <iostream>
+
 int main() {
-  std::cout << "Hello Your Name!\n";
+  std::cout << "Hello, Jedward!\n";
 }
